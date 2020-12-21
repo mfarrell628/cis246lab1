@@ -1,2 +1,32 @@
+Mark Farrell 
 lab 2 summary 
+
+
+
+
+ Commands sim/dif 
+
+   pwd- was similar 
+   ls - Similar 
+   uname - Same 
+   ls -a = same 
+   ls -all= same 
+   ls -i = same 
+uname -a = showed different versions of os 
+
+
+uname -s     All Same 
+uname -m    _ 
+uname -n   _
+uname -p  _
+uname -i _
+
+ls -all = same 
+cp = same 
+echo= same 
+ The keys on the manual paige were different. 
+man key worked same 
+man 5 passwd - did not work or no entry found 
+man -k worked same 
+
 
